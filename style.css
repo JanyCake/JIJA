@@ -1,0 +1,141 @@
+body {
+    background: #292E42;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header img {
+    height: 150px;
+}
+
+nav div{
+    justify-content: space-between;
+    display: flex;
+    color: white;
+    flex-wrap: wrap
+}
+
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 20px 30px 20px 30px;
+    font-size: 20px;
+}
+
+nav ul {
+    background-color: white;
+    color: black;
+    padding: 5px 5px 5px 30px;
+    border-radius: 5px;
+}
+
+main p {
+    color: black;
+}
+
+.gi {
+    height: 100px;
+}
+
+.welcome {
+    text-align: center;
+    border: 1px solid #292E42;
+    background: #D3BC8E;
+    color: black;
+    border-radius: 5px;
+    margin: 0px 25px 0px 25px;
+}
+
+.one {
+    color: #D3BC8E;
+}
+
+.targets {
+    border: 3px solid #D3BC8E;
+    background: #D3BC8E;
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px 3px 0px 3px;
+    font-weight: bold;
+}
+
+.targets:hover {
+    border: 3px solid gray;
+    background: #292E42;
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px;
+    color: #D3BC8E;
+    font-weight: bold;
+}
+
+.target {
+    height: 40px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.banner {
+    height: 150px;
+}
+
+.banners {
+    text-align: center;
+    padding: 0px 10px 0px 10px;
+    font-weight: bold;
+}
+
+.wish {
+    display: flex;
+    border: 1px solid #D3BC8E;
+    background: #D3BC8E;
+    flex-wrap: wrap;
+    justify-content: center;
+    border-radius: 5px;
+    margin: 0px 25px 0px 25px;
+}
+
+.htri {
+    text-align: center;
+}
+
+.h {
+    color: #D3BC8E;
+}
+
+main h3 {
+    color: #D3BC8E;
+    text-align: center;
+}
+
+footer {
+    background: black;
+    color: white;
+    margin-top: 10px;
+    margin: 25px 25px 0px 25px;
+}
+
+footer img {
+    height: 200px;
+}
+
+.social {
+    height: 30px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+footer p {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#E3DEA2
