@@ -138,4 +138,12 @@ footer p {
     font-weight: bold;
 }
 
-#E3DEA2
+.videos {
+    float: right;
+    margin: 10px;
+}
+
+.main {
+    float:left;
+    width: 50%
+}
