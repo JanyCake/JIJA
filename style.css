@@ -139,16 +139,17 @@ footer p {
 }
 
 .videos {
-    float: right;
+    float: left;
     margin: 10px;
-    width: 50%;
+        width: 30%;
 }
 
 .main {
     float:left;
-    width: 50%;
+    width: 60%;
 }
 
-section {
+footer{
+    float: left;
     width: 100%;
 }
