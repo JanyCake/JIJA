@@ -105,6 +105,8 @@ main p {
 
 .h {
     color: #D3BC8E;
+    border-bottom: 4px solid #D3BC8E;
+    padding-bottom: 5px;
 }
 
 main h3 {
@@ -117,6 +119,8 @@ footer {
     color: white;
     margin-top: 10px;
     margin: 25px 25px 0px 25px;
+    float: left;
+    width: 100%;
 }
 
 footer img {
@@ -141,15 +145,19 @@ footer p {
 .videos {
     float: left;
     margin: 10px;
-        width: 30%;
+    width: 30%;
+}
+
+.db {
+    float: left;
+}
+
+.dbd {
+    float: left;
+    width: 100%;
 }
 
 .main {
     float:left;
     width: 60%;
-}
-
-footer{
-    float: left;
-    width: 100%;
 }
