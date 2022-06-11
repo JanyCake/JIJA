@@ -120,7 +120,7 @@ footer {
     margin-top: 10px;
     margin: 25px 25px 0px 25px;
     float: left;
-    width: 100%;
+    width: 95.8%;
 }
 
 footer img {
@@ -143,9 +143,8 @@ footer p {
 }
 
 .videos {
-    float: left;
-    margin: 10px;
-    width: 30%;
+    float: right;
+    width: 40%;
 }
 
 .db {
