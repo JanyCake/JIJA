@@ -73,7 +73,7 @@ h2 {
 .hdva {
     border-bottom: 2px solid white;
     padding-bottom: 5px;
-    padding-top: 560px;
+    padding-top: 600px;
     font-weight: bold;
 }
 
@@ -81,9 +81,8 @@ footer {
     background: black;
     color: white;
     margin-top: 10px;
-    margin: 25px 25px 0px 25px;
     float: left;
-    width: 95.8%;
+    width: 100%;
 }
 
 footer img {
@@ -142,4 +141,8 @@ td {
     color: white;
     background: #3b4461;
     border-top: 3px solid #292E42;
+}
+
+.htri {
+    padding-top: 20px;
 }
